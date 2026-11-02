@@ -1,0 +1,12 @@
+{
+  "name": "my-mods",
+  "owner": {
+    "name": "USER"
+  },
+  "plugins": [
+    {
+      "name": "token-monitor",
+      "source": "./token-monitor"
+    }
+  ]
+}
